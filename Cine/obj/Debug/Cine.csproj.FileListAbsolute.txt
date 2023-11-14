@@ -1,0 +1,14 @@
+C:\Users\misar\source\repos\Cine\Cine\bin\Debug\Cine.exe.config
+C:\Users\misar\source\repos\Cine\Cine\bin\Debug\Cine.exe
+C:\Users\misar\source\repos\Cine\Cine\bin\Debug\Cine.pdb
+C:\Users\misar\source\repos\Cine\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\misar\source\repos\Cine\Cine\obj\Debug\Cine.Form1.resources
+C:\Users\misar\source\repos\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\misar\source\repos\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\misar\source\repos\Cine\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\Users\misar\source\repos\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\misar\source\repos\Cine\Cine\obj\Debug\Cine.pdb
+C:\Users\misar\source\repos\Cine\Cine\obj\Debug\Cine.Form2.resources
+C:\Users\misar\source\repos\Cine\Cine\obj\Debug\Cine.Form3.resources
+C:\Users\misar\source\repos\Cine\Cine\obj\Debug\Cine.Form4.resources
+C:\Users\misar\source\repos\Cine\Cine\obj\Debug\Cine.Form5.resources
